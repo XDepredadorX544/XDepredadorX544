@@ -1,0 +1,10 @@
+name: ComboAbility
+version: 1.0.0
+main: XDX\ComboAbility
+author: XDX
+api: 5.0.0
+permissions:
+  givecomboitem:
+    description: Gives the special combo ability apple.
+    usage: /givecomboitem
+    default: op
